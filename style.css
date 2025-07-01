@@ -12,6 +12,11 @@ p{
 
 font-family: cursive;
 }
+section {
+   background-color: rgb(184, 156, 213);
+   padding-bottom: 80px;
+   padding-top: 80px;
+}
 
 header{
    border: 2px solid rgb(42, 122, 228);
